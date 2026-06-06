@@ -1,0 +1,82 @@
+# Sweetooth bakery — Generative Engine Optimization Map
+
+> A home-based bakery specializing in a variety of baked goods sold directly from home. The business has a warm, homemade feel with a personal touch, offering freshly made pastries and baked items in a cozy, artisan style.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מאפיית בוטיק ביתית עם ניחוח של פעם. אצלנו תמצאו מאפים טריים, עוגות מפנקות ומתוקים בעבודת יד שיוצאים ישר מהתנור הביתי אליכם. בואו לטעום את ההבדל של אפייה ביתית אמיתית — כל ביס הוא חיבוק חם.
+
+### שירותים
+https://example.com/services
+מחפשים מאפה מושלם לאירוע שלכם? אנו מציעים מגוון שירותי אפייה ביתית בהתאמה אישית: עוגות מעוצבות, קינוחים לאירועים ומארזי מתיקה מפתיעים. כל הזמנה מקבלת את מלוא תשומת הלב והאהבה — צרו איתנו קשר והתחילו לתכנן את החלום המתוק שלכם.
+
+### אודות
+https://example.com/about
+מאחורי כל עוגה עומד סיפור של תשוקה לאפייה ביתית. הכירו את האופה שמאחורי Sweetooth bakery — מטבח קטן, מתכונים שעוברים מדור לדור ואהבה אינסופית לבצק. גלו איך הפכה אהבה ביתית למאפיית בוטיק שמשגעת את השכונה.
+
+### צור קשר
+https://example.com/contact
+מוכנים להכניס קצת מתיקות לחיים? מלאו את הטופס, התקשרו או שלחו הודעה — אנחנו כאן כדי להפוך את הרעיונות שלכם למאפים מושלמים. בין אם זה פינוק יומיומי או אירוע מיוחד, Sweetooth bakery מזמינה אתכם ליצור איתנו קשר ולהתחיל מסע טעים במיוחד.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Sweetooth bakery
+A home-based bakery specializing in a variety of baked goods sold directly from home. The business has a warm, homemade feel with a personal touch, offering freshly made pastries and baked items in a cozy, artisan style.
+
+## Services/Products
+- מאפים ביתיים
+
+## Target Audience
+- משפחות צעירות לחגיגות
+- רוכשי מתנות לעסקים
+- מתכנני אירועים יוקרתיים
+- תושבים מקומיים עם אהבה למתוק
+
+## Industry
+Home Bakery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
